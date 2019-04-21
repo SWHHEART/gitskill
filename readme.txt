@@ -18,3 +18,7 @@ one more change ！！！
 Creating a new branch is quick ！！！
 
 人脉
+
+git branch -d dev
+
+Creat a new branch is quick and simple!!!
