@@ -18,3 +18,6 @@ one more change ！！！
 Creating a new branch is quick ！！！
 
 人脉
+
+Creating a new branch quick and simple!
+
