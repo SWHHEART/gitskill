@@ -19,13 +19,5 @@ Creating a new branch is quick ！！！
 
 人脉
 
-<<<<<<< HEAD
-Creating a new branch quick and simple!
-
-=======
-git branch -d dev
-
-Creat a new branch is quick and simple!!!
->>>>>>> featurel
 
 Creating a new branch is quick and simple.
