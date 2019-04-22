@@ -24,3 +24,5 @@ Creating a new branch is quick and simple.
 
 Creating a new branch is quick & simple.
 
+快速建立分支
+
